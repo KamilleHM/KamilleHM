@@ -19,3 +19,4 @@ Em outras áreas possuo conhecimento em: Python, PHP, Redes de computadores, Met
 Participo de projetos com a faculdade juntamente com os professores e a coordenadora do curso.
 
 Aqui está meu portifólio:  https://kamillehm.github.io/me/
+Meu Linkedin: https://www.linkedin.com/in/kamille-hartmann-maccagnan/
