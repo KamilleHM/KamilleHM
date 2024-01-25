@@ -18,5 +18,5 @@ Sou apaixonada por Desenvolvimento Web e possuo conhecimento em HTML, CSS, JavaS
 Em outras áreas possuo conhecimento em: Python, PHP, Redes de computadores, Metodologia Ágil,  Git e GitHub, Pacote Office, Power BI.
 Participo de projetos com a faculdade juntamente com os professores e a coordenadora do curso.
 
-Aqui está meu portifólio:  https://kamillehm.github.io/me/
+Aqui está meu portifólio:  https://kamillehm.github.io/me/ <br>
 Meu Linkedin: https://www.linkedin.com/in/kamille-hartmann-maccagnan/
