@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **KamilleHM/KamilleHM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+ Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) no período da noite, cursando o 3° período na UniCesumar. Estudo paralelo a faculdade complementando-a com cursos extras.
+Sou apaixonada por Desenvolvimento Web e possuo conhecimento em HTML, CSS, JavaScript e React.
+Em outras áreas possuo conhecimento em: Python, PHP, Redes de computadores, Metodologia Ágil,  Git e GitHub, Pacote Office, Power BI.
+Participo de projetos com a faculdade juntamente com os professores e a coordenadora do curso.
+
+Aqui está meu portifólio:  https://kamillehm.github.io/me/
