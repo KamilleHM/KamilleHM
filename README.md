@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
- Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) no período da noite, cursando o 3° período na UniCesumar. Estudo paralelo a faculdade complementando-a com cursos extras.
+ Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) no período da noite, cursando o 3° período na PUCPR. Estudo paralelo a faculdade complementando-a com cursos extras.
 Sou apaixonada por Desenvolvimento Web e possuo conhecimento em HTML, CSS, JavaScript e React.
 Em outras áreas possuo conhecimento em: Python, PHP, Redes de computadores, Metodologia Ágil,  Git e GitHub, Pacote Office, Power BI.
 Participo de projetos com a faculdade juntamente com os professores e a coordenadora do curso.
